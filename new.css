@@ -1,0 +1,37 @@
+.bgimg{
+    background-image: url("https://res.cloudinary.com/digdliiab/image/upload/v1668667931/white-interior-blur-blurred-chair_1203-4272_ez92ka.jpg");
+    height:200vh;
+    background-size: cover;
+}
+.headfirst{
+    color: rgb(240, 243, 244);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    padding:25px ;
+}
+.bgcardcarousel{
+    background-color:rgb(197, 159, 63);
+    border-bottom-left-radius:10px ;
+    border-bottom-right-radius:10px ;
+    margin: 25px;
+}
+.cardcon{
+    padding:20px;
+}
+.headsecond{
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.paraline{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.hi{
+    color: rgb(197, 15, 172);
+    background-color: rgb(38, 222, 72);
+    font-size: 20px;
+}
